@@ -1,0 +1,12 @@
+{
+  "name": "star-module",
+  "version": "1.4.1",
+  "description": "This is a test module. Please ignore!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js",
+    "prepublishOnly": "npm test"
+  },
+  "author": "Sander Star",
+  "license": "MIT"
+}
